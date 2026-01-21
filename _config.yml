@@ -22,9 +22,9 @@ baidu_site_verification  :  # get baidu_site_verification from https://ziyuan.ba
 # Site Author
 author:
   name             : "Haikun Liu"
-  avatar           : "images/android-chrome-512x512.png"
-  bio              : 
-  location         : "Shanxi, China"
+  avatar           : "images/haikun.png"
+  bio              : "Shanxi University"
+  location         : "Taiyuan, China"
   employer         :
   pubmed           : 
   googlescholar    : 
@@ -37,7 +37,7 @@ author:
   flickr           :
   facebook         :
   foursquare       :
-  github           : # e.g., "github username"
+  github           : "haikunhere" # e.g., "github username"
   google_plus      :
   keybase          :
   instagram        :

@@ -19,9 +19,11 @@ redirect_from:
 
 I am now a PhD student (2025-) in Computer Science and Technology at Shanxi University, supervised by Prof. [Ru Li](https://www.researchgate.net/scientific-contributions/Ru-Li-14829601?_sg=VXNUDhg-exV6GUMTTzZ3UgEBy0zZa6hRgTd8V_oo4GZ0doGm9wp14Vo_rBLhkms1qfdWlJrEIZquUi0), Dr. [Shaoru Guo](https://scholar.google.com/citations?user=gVHCG4EAAAAJ&hl=zh-CN&oi=ao) and Prof. [Víctor Gutiérrez Basulto](https://scholar.google.com/citations?user=L2eFo5IAAAAJ&hl=zh-CN). 
 
-My research interests focus on Natural Language Processing and LLM Agent.
+My research interests focus on Natural Language Processing and LLM Agent. 
 
 # 🔥 News
 
+
 # 📝 Publications 
+
 
